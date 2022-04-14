@@ -1,0 +1,2 @@
+# allkart
+ecommers django project
